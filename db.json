@@ -1,0 +1,39 @@
+{
+  "items": [
+    {
+      "id": 1,
+      "name": "Buzina 1",
+      "category": "Categoria 1"
+    },
+    {
+      "id": 2,
+      "name": "Buzina 2",
+      "category": "Categoria 2"
+    },
+    {
+      "id": 3,
+      "name": "Buzina 3",
+      "category": "Categoria 3"
+    }
+  ],
+  "checklists": [
+    {
+      "id": 1,
+      "date": "2020-06-25T17:20:33",
+      "listItems": [
+        2,
+        5,
+        8,
+        11,
+        14
+      ],
+      "latitude": 0,
+      "longitude": 0,
+      "city": "Curitiba",
+      "state": "Paraná",
+      "locomotive": "X21",
+      "observation": "teste",
+      "registry": "2886"
+    }
+  ]
+}

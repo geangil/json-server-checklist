@@ -35,5 +35,15 @@
       "observation": "teste",
       "registry": "2886"
     }
-  ]
+  ],
+  "users": {
+    "listaFuncionario": [
+      {
+        "matricula": 2886,
+        "imeiDispositivo": "358203090843341",
+        "nome": "Gil",
+        "nomeCompleto": "Gean Gil"
+      }
+    ]
+  }
 }
